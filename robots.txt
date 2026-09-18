@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/sodatide-digestive-support/sitemap.xml
+Sitemap: https://sodatide-digestive-support.vercel.app/sitemap-vercel.xml
+Sitemap: https://sodatide-digestive-support.pages.dev/sitemap-cloudflare.xml
